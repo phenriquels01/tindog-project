@@ -1,6 +1,4 @@
-# TinDog
-
-## 🐶 TinDog Website
+# 🐶 TinDog
 
 This is a web application designed to help dog lovers meet new and interesting dogs nearby. It is a playful, engaging app inspired by dating applications, but focused on connecting dog owners and their pets in a fun way.
 
